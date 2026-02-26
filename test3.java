@@ -52,5 +52,6 @@ for (int i= 0 ; i <= lowercaseString.length()-1 ; i++){
 
 System.out.println(onlyDuplicateChar);
 
+// adding new comment
 
 }
